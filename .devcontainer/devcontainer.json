@@ -17,5 +17,6 @@
             ]
         }
     },
-    "remoteUser": "vscode"
+    "remoteUser": "vscode",
+    "initializeCommand": "clear && echo 'To start the server, run: python3 app.py'"
 }
