@@ -12,8 +12,8 @@ This project contains a simple web server that displays a list of numbers from 1
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/ivan-burazin/devintest.git
+    cd devintest
     ```
 
 2. Install the required packages:
